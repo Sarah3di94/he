@@ -36,7 +36,7 @@
 		'"': '&quot;',
 		// '&': '&amp;',
 		'\'': '&#x27;',
-		'<': '&lt;',
+		// '<': '&lt;',
 		// See https://mathiasbynens.be/notes/ambiguous-ampersands: in HTML, the
 		// following is not strictly necessary unless it’s part of a tag or an
 		// unquoted attribute value. We’re only escaping it to support those
